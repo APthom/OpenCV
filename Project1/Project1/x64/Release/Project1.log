@@ -1,0 +1,2 @@
+﻿contour.obj : error LNK2005: main already defined in contour.obj
+C:\Users\acer\source\repos\Project1\x64\Release\TestOpenCV.exe : fatal error LNK1169: one or more multiply defined symbols found
